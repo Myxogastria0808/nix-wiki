@@ -6,7 +6,7 @@ import starlight from "@astrojs/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Nix Wiki",
+      title: "My Nix",
       social: {
         github: "https://github.com/Myxogastria0808/dotfiles",
       },
